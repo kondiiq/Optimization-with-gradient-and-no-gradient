@@ -34,9 +34,9 @@ This project is simple Lorem ipsum dolor generator.
 ### Qing function
 
 <br/>
-<img src="https://latex.codecogs.com/svg.latex?\Large; f(x_2) = \sum_{i=1}^{N} (x_{i}^{2} - i^{2})^{2}" title="Qing function" /> <br/>
-<img src="https://latex.codecogs.com/svg.latex?\Large;p.o :-500 \leq x_i \leq 500" title="Qing function search space" /> <br/>
-<img src="https://latex.codecogs.com/svg.latex?\Large;x^{*} = ( \pm \sqrt{i}, ...,\pm \sqrt{i}), f(x^{*}) = 0" title="Qing function search space local global minimum" /> <br/>
+<img src="https://latex.codecogs.com/svg.latex?\Large; f(x_2) = \sum_{i=1}^{N} (x_{i}^{2} - i^{2})^{2}"/> <br/>
+<img src="https://latex.codecogs.com/svg.latex?\Large;p.o :-500 \leq x_i \leq 500"/> <br/>
+<img src="https://latex.codecogs.com/svg.latex?\Large;x^{*} = ( \pm \sqrt{i}, ...,\pm \sqrt{i}), f(x^{*}) = 0"/> <br/>
 
 
 ### Alpine function
