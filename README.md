@@ -1,5 +1,26 @@
 # Optimization-with-gradient-and-no-gradient-methods
 
+The project consists of 4 stages 
+<p align="center">
+ Stage 1 
+</p>
+Preparation of a computer application that calculates the value of the target function.
+Description of the optimization problem in the report - description of the objective function (including graph
+surface and contour plot for functions of 2 variables). 
+<p align="center">
+Stage 2 
+</p>
+Preparation of a gradientless optimization method. Description of the method in the report. 
+<p align="center">
+Stage 3
+</p>
+Preparation of the gradient optimization method. Description of the method in the report.
+<p align="center">
+Stage 4
+</p>
+Compare the operation of different methods and the effect of different parameter settings. Description
+conducted research in the report. 
+
 ## Table of contents
 * [General info](#general-info)
 * [Qing function](#Qing-function)
@@ -7,23 +28,23 @@
 * [Technologies](#technologies)
 * [Setup](#setup)
 
-## General info
+### General info
 This project is simple Lorem ipsum dolor generator.
 
 ### Qing function
 
 <br/>
-<img src="https://latex.codecogs.com/svg.latex?\Large;f(x_2) = \sum_{i=1}^{N} (x_{i}^{2} - i^{2})^{2}" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" /> 
-<img src="https://latex.codecogs.com/svg.latex?\Large;p.o :-500 \leq x_i \leq 500" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" /> 
-<img src="https://latex.codecogs.com/svg.latex?\Large;x^{*} = ( \pm \sqrt{i}, ...,\pm \sqrt{i}), f(x^{*}) = 0" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" /> <br/>
+<img src="https://latex.codecogs.com/svg.latex?\Large; f(x_2) = \sum_{i=1}^{N} (x_{i}^{2} - i^{2})^{2}" title="Qing function" /> <br/>
+<img src="https://latex.codecogs.com/svg.latex?\Large;p.o :-500 \leq x_i \leq 500" title="Qing function search space" /> <br/>
+<img src="https://latex.codecogs.com/svg.latex?\Large;x^{*} = ( \pm \sqrt{i}, ...,\pm \sqrt{i}), f(x^{*}) = 0" title="Qing function search space local global minimum" /> <br/>
 
 
 ### Alpine function
 	
 <br/>
-<img src="https://latex.codecogs.com/svg.latex?\Large;f(x_2) = \sum_{i=1}^{N} \mid x_{i} sin(x_{i}) + 0.1 x_i \mid" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" /> <br/>
-<img src="https://latex.codecogs.com/svg.latex?\Large;p.o : -10 \leq x_i \leq 10" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" /> <br/>
-<img src="https://latex.codecogs.com/svg.latex?\Large;x^{*} = (0, ..., 0), f(x^{*}) = 0" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" /> <br/>
+<img src="https://latex.codecogs.com/svg.latex?\Large;f(x_2) = \sum_{i=1}^{N} \mid x_{i} sin(x_{i}) + 0.1 x_i \mid" title="Alpine function" /> <br/>
+<img src="https://latex.codecogs.com/svg.latex?\Large;p.o : -10 \leq x_i \leq 10" title="Alpine function search space" /> <br/>
+<img src="https://latex.codecogs.com/svg.latex?\Large;x^{*} = (0, ..., 0), f(x^{*}) = 0" title="Alpine function search space local global minimum" /> <br/>
 
 ## Technologies
 Project is created with:
