@@ -34,17 +34,17 @@ This project is simple Lorem ipsum dolor generator.
 ### Qing function
 
 <br/>
-<img src="https://latex.codecogs.com/svg.latex?\Large; f(x_2) = \sum_{i=1}^{N} (x_{i}^{2} - i^{2})^{2}"/> <br/>
-<img src="https://latex.codecogs.com/svg.latex?\Large;p.o :-500 \leq x_i \leq 500"/> <br/>
-<img src="https://latex.codecogs.com/svg.latex?\Large;x^{*} = ( \pm \sqrt{i}, ...,\pm \sqrt{i}), f(x^{*}) = 0"/> <br/>
+<img src="https://render.githubusercontent.com/render/math?math=f(x_2) = \sum_{i=1}^{N} (x_{i}^{2} - i^{2})^{2}"/> <br/>
+<img src="https://render.githubusercontent.com/render/math?math=p.o :-500 \leq x_i \leq 500"/> <br/>
+<img src="https://render.githubusercontent.com/render/math?math=x^{*} = ( \pm \sqrt{i}, ...,\pm \sqrt{i}), f(x^{*}) = 0"/> <br/>
 
 
 ### Alpine function
 	
 <br/>
-<img src="https://latex.codecogs.com/svg.latex?\Large;f(x_2) = \sum_{i=1}^{N} \mid x_{i} sin(x_{i}) + 0.1 x_i \mid" title="Alpine function" /> <br/>
-<img src="https://latex.codecogs.com/svg.latex?\Large;p.o : -10 \leq x_i \leq 10" title="Alpine function search space" /> <br/>
-<img src="https://latex.codecogs.com/svg.latex?\Large;x^{*} = (0, ..., 0), f(x^{*}) = 0" title="Alpine function search space local global minimum" /> <br/>
+<img src="https://render.githubusercontent.com/render/math?math=f(x_2) = \sum_{i=1}^{N} \mid x_{i} sin(x_{i}) + 0.1 x_i \mid" title="Alpine function" /> <br/>
+<img src="https://render.githubusercontent.com/render/math?math=p.o : -10 \leq x_i \leq 10" title="Alpine function search space" /> <br/>
+<img src="https://render.githubusercontent.com/render/math?math=x^{*} = (0, ..., 0), f(x^{*}) = 0" title="Alpine function search space local global minimum" /> <br/>
 
 ## Technologies
 Project is created with:
