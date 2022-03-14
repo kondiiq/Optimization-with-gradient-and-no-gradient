@@ -34,9 +34,9 @@ This project is simple Lorem ipsum dolor generator.
 ### Qing function
 
 <br/>
-<img src="https://render.githubusercontent.com/render/math?math=f(x_2) = \sum_{i=1}^{N} (x_{i}^{2} - i^{2})^{2}"/> <br/>
-<img src="https://render.githubusercontent.com/render/math?math=p.o :-500 \leq x_i \leq 500"/> <br/>
-<img src="https://render.githubusercontent.com/render/math?math=x^{*} = ( \pm \sqrt{i}, ...,\pm \sqrt{i}), f(x^{*}) = 0"/> <br/>
+![#f03c15]<img src="https://render.githubusercontent.com/render/math?math=f(x_2) = \sum_{i=1}^{N} (x_{i}^{2} - i^{2})^{2}"/> <br/>
+![#f03c15]<img src="https://render.githubusercontent.com/render/math?math=p.o :-500 \leq x_i \leq 500"/> <br/>
+![#f03c15]<img src="https://render.githubusercontent.com/render/math?math=x^{*} = ( \pm \sqrt{i}, ...,\pm \sqrt{i}), f(x^{*}) = 0"/> <br/>
 
 
 ### Alpine function
