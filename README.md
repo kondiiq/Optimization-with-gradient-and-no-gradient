@@ -35,7 +35,7 @@ This project is simple Lorem ipsum dolor generator.
 
 <br/>
 <img src="https://render.githubusercontent.com/render/math?math=f(x_2) = \sum_{i=1}^{N} (x_{i}^{2} - i^{2})^{2}"/> <br/>
-<img src="https://render.githubusercontent.com/render/math?math=With__restrictions :-500 \leq x_i \leq 500"/> <br/>
+<img src="https://render.githubusercontent.com/render/math?math=With  restrictions :-500 \leq x_i \leq 500"/> <br/>
 <img src="https://render.githubusercontent.com/render/math?math=x^{*} = ( \pm \sqrt{i}, ...,\pm \sqrt{i}), f(x^{*}) = 0"/> <br/>
 
 
@@ -43,7 +43,7 @@ This project is simple Lorem ipsum dolor generator.
 	
 <br/>
 <img src="https://render.githubusercontent.com/render/math?math=f(x_2) = \sum_{i=1}^{N} \mid x_{i} sin(x_{i}) + 0.1 x_i \mid" title="Alpine function" /> <br/>
-<img src="https://render.githubusercontent.com/render/math?math=With__restrictions : -10 \leq x_i \leq 10" title="Alpine function search space" /> <br/>
+<img src="https://render.githubusercontent.com/render/math?math=With  restrictions : -10 \leq x_i \leq 10" title="Alpine function search space" /> <br/>
 <img src="https://render.githubusercontent.com/render/math?math=x^{*} = (0, ..., 0), f(x^{*}) = 0" title="Alpine function search space local global minimum" /> <br/>
 
 ## Technologies
