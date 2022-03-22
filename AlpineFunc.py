@@ -20,6 +20,7 @@ if __name__ == '__main__':
     plt.xlabel('x')
     plt.ylabel('y')
     plt.title('Alpine function contour chart')
+    plt.colorbar()
     plt.show()
 """
     x = np.arange(-10, 10, 0.1)

@@ -1,5 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
+from mpl_toolkits.axes_grid1 import make_axes_locatable
 
 if __name__ == '__main__':
     fig = plt.figure()
@@ -20,6 +21,8 @@ if __name__ == '__main__':
     plt.xlabel('x')
     plt.ylabel('y')
     plt.title('Qing function contour chart')
+    plt.colormaps()
+    plt.colorbar()
     plt.show()
 
     x = np.arange(-500, 500, 0.1)
