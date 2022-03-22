@@ -21,3 +21,10 @@ if __name__ == '__main__':
     plt.ylabel('y')
     plt.title('Qing function contour chart')
     plt.show()
+
+    x = np.arange(-500, 500, 0.1)
+    y = np.arange(-500, 500, 0.1)
+    tbh = 0
+    for i in range(3):
+        tbh = tbh + ((np.sqrt(i) ** 2 + np.sqrt(i) ** 2) - i) ** 2
+        print(f'AEZAKKI{tbh}')
