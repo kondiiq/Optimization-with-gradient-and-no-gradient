@@ -22,14 +22,12 @@ Compare the operation of different methods and the effect of different parameter
 conducted research in the report. 
 
 ## Table of contents
-* [General info](#general-info)
 * [Qing function](#Qing-function)
 * [Alpine function](#Alpine-function)
 * [Technologies](#technologies)
 * [Setup](#setup)
 
-### General info
-This project is simple Lorem ipsum dolor generator.
+
 
 ### Qing function
 
