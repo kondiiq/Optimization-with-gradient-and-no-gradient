@@ -1,6 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
-from mpl_toolkits.axes_grid1 import make_axes_locatable
+from optimehehe import *
 
 if __name__ == '__main__':
     fig = plt.figure()
@@ -11,6 +11,8 @@ if __name__ == '__main__':
     res = 0
     for i in range(3):
         res = res + ((x ** 2 + y ** 2) - i) ** 2
+
+        #print(i)
 
     ax.plot_surface(x, y, res, cmap='jet')
     plt.xlabel('x')
