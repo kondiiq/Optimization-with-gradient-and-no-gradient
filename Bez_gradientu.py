@@ -130,11 +130,7 @@ class HookJeeves:
 
 
 if __name__ == "__main__":
-    fh = Hump()
-    fb = Beale()
-    fe = Easom()
     fg = Qing() # -1, 2
     fs = Alpine()
-    fr = Rosenbrock()
     jeev = HookJeeves(x_zero=[-1, 2] ,eps=0.0001, wsp_zmn=0.4, debug_mode=False, show_plot=True, pokaz_sciezke=False,obiekt_funkcji=fg)
     print (jeev.optymalizuj())
