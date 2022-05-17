@@ -25,7 +25,7 @@ conducted research in the report.
 * [Qing function](#Qing-function)
 * [Alpine function](#Alpine-function)
 * [Technologies](#technologies)
-* [## Used algorithms](#used-algorithms)
+* [Used algorithms](#used-algorithms)
 * [Setup](#setup)
 
 
