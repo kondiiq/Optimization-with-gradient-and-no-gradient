@@ -52,8 +52,8 @@ Project is created with:
 * MatplotLib 3.5.1
 
 ## Used algorithms
-* Hooke-Jeeves method
-* Steepest descent method
+* Hooke-Jeeves method -> https://web.stanford.edu/group/sisl/k12/optimization/MO-unit2-pdfs/2.11minimum3D2hooke-jeeves.pdf
+* Steepest descent method -> https://en.wikipedia.org/wiki/Method_of_steepest_descent
 
 ## Setup
 To run this project, install it locally using pip:
