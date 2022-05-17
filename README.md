@@ -25,6 +25,7 @@ conducted research in the report.
 * [Qing function](#Qing-function)
 * [Alpine function](#Alpine-function)
 * [Technologies](#technologies)
+* [## Used algorithms](#used-algorithms)
 * [Setup](#setup)
 
 
@@ -49,7 +50,11 @@ Project is created with:
 * Python: 3.9
 * NumPy 1.22.2
 * MatplotLib 3.5.1
-	
+
+## Used algorithms
+* Hooke-Jeeves method
+* Steepest descent method
+
 ## Setup
 To run this project, install it locally using pip:
 
@@ -58,7 +63,25 @@ $ pip install --upgrade pip
 $ pip install numpy
 $ pip install matplotlib
 $ git glone https://github.com/kondiiq/Optimization-with-gradient-and-no-gradient.git project
+```
+
+To display function write below commands to your terminal:
+
+```
 $ cd project
 $ python3 QingFunc.py 
 $ python3 AlpineFunc.py 
+```
+
+To display non-gradient optimize function write below commands to your terminal:
+
+```
+$ python3 Bez_gradientu.py 
+```
+
+To display gradient optimize using steepest descent algorithm write below commands to your terminal:
+
+```
+$ python3 Alpine_gradient
+$ python3 Qing_gradient
 ```
