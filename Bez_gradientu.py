@@ -1,6 +1,6 @@
 import operator
 from hookeJaves import *
-
+import time
 
 class HookJeeves:
     """
@@ -130,7 +130,11 @@ class HookJeeves:
 
 
 if __name__ == "__main__":
+    start = time.time()
     fg = Qing() # -1, 2
     fs = Alpine()
-    jeev = HookJeeves(x_zero=[-1, 2] ,eps=0.0001, wsp_zmn=0.4, debug_mode=False, show_plot=True, pokaz_sciezke=False,obiekt_funkcji=fg)
+    jeev = HookJeeves(x_zero=[-1, 2] ,eps=0.0001, wsp_zmn=0.4, debug_mode=False, show_plot=True, pokaz_sciezke=True,obiekt_funkcji=fg)
     print (jeev.optymalizuj())
+    end = time.time()
+    total_time = end - start
+    print(f"Execution of script is {total_time} time unit")
